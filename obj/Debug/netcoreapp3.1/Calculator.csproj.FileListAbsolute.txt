@@ -1,0 +1,11 @@
+Z:\User\Documents\GitHub\MVC\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+Z:\User\Documents\GitHub\MVC\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+Z:\User\Documents\GitHub\MVC\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+Z:\User\Documents\GitHub\MVC\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+Z:\User\Documents\GitHub\MVC\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+Z:\User\Documents\GitHub\MVC\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+Z:\User\Documents\GitHub\MVC\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+Z:\User\Documents\GitHub\MVC\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+Z:\User\Documents\GitHub\MVC\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+Z:\User\Documents\GitHub\MVC\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+Z:\User\Documents\GitHub\MVC\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
